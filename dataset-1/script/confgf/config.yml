@@ -1,0 +1,38 @@
+train:
+  seed: 2022
+  batch_size: 128
+  gpus:
+    - 0
+    - Null
+  anneal_power: 2.0
+
+test:
+  init_checkpoint: script/confgf
+  epoch: 38
+  gen:
+    dg_step_size: 3.0
+    dg_num_steps: 1000
+    steps_d: 100
+    step_lr_d: 0.000002
+    steps_pos: 100
+    step_lr_pos: 0.0000024
+    clip: 1000
+    min_sigma: 0.0
+    verbose: 1
+
+
+model:
+  name: drugs
+  hidden_dim: 256
+  num_convs: 4
+  sigma_begin: 10
+  sigma_end: 0.01
+  num_noise_level: 50
+  order: 3
+  mlp_act: relu
+  gnn_act: relu
+  cutoff: 10.0
+  short_cut: true
+  concat_hidden: false
+  noise_type: symmetry
+  edge_encoder: mlp

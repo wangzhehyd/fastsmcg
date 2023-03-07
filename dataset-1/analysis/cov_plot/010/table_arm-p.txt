@@ -1,0 +1,18 @@
+evaluate_confgenx_010_arm-p.log
+Precision AMR: Mean = 1.5779, Median = 1.5532
+evaluate_conformator_010_arm-p.log
+Precision AMR: Mean = 1.6568, Median = 1.6259
+evaluate_omega_010_arm-p.log
+Precision AMR: Mean = 1.4827, Median = 1.3772
+evaluate_rdkit_010_arm-p.log
+Precision AMR: Mean = 1.5906, Median = 1.5295
+evaluate_confgf_010_arm-p.log
+Precision AMR: Mean = 2.3815, Median = 2.4118
+evaluate_dmcg_010_arm-p.log
+Precision AMR: Mean = 2.2009, Median = 2.1130
+evaluate_geodiff_010_arm-p.log
+Precision AMR: Mean = 1.9130, Median = 1.8928
+evaluate_geomol_010_arm-p.log
+Precision AMR: Mean = 1.6908, Median = 1.6511
+evaluate_torsional_diffusion_010_arm-p.log
+Precision AMR: Mean = 1.7350, Median = 1.6924
