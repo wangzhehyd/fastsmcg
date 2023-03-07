@@ -1,0 +1,18 @@
+evaluate_confgenx_arm-r.log
+Recall AMR: Mean = 0.9155, Median = 0.8542
+evaluate_confgf_arm-r.log
+Recall AMR: Mean = 1.1235, Median = 1.1228
+evaluate_conformator_arm-r.log
+Recall AMR: Mean = 0.9606, Median = 0.8914
+evaluate_dmcg_arm-r.log
+Recall AMR: Mean = 1.2540, Median = 1.1940
+evaluate_geodiff_arm-r.log
+Recall AMR: Mean = 0.8246, Median = 0.8035
+evaluate_geomol_arm-r.log
+Recall AMR: Mean = 0.8909, Median = 0.8545
+evaluate_omega_arm-r.log
+Recall AMR: Mean = 1.0428, Median = 0.9980
+evaluate_rdkit_arm-r.log
+Recall AMR: Mean = 1.0743, Median = 1.0032
+evaluate_torsional_diffusion_arm-r.log
+Recall AMR: Mean = 0.5913, Median = 0.5740

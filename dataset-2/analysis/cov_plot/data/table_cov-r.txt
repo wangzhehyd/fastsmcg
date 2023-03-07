@@ -1,0 +1,18 @@
+evaluate_confgenx_cov-r.log
+Recall Coverage: Mean = 45.64, Median = 40.31
+evaluate_confgf_cov-r.log
+Recall Coverage: Mean = 14.68, Median = 0.82
+evaluate_conformator_cov-r.log
+Recall Coverage: Mean = 40.21, Median = 32.81
+evaluate_dmcg_cov-r.log
+Recall Coverage: Mean = 29.21, Median = 21.88
+evaluate_geodiff_cov-r.log
+Recall Coverage: Mean = 43.66, Median = 37.94
+evaluate_geomol_cov-r.log
+Recall Coverage: Mean = 42.93, Median = 37.98
+evaluate_omega_cov-r.log
+Recall Coverage: Mean = 38.90, Median = 29.82
+evaluate_rdkit_cov-r.log
+Recall Coverage: Mean = 38.19, Median = 28.80
+evaluate_torsional_diffusion_cov-r.log
+Recall Coverage: Mean = 71.73, Median = 79.09

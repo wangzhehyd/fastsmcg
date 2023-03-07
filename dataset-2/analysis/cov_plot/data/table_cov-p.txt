@@ -1,0 +1,18 @@
+evaluate_confgenx_cov-p.log
+Precision Coverage: Mean = 40.66, Median = 32.46
+evaluate_confgf_cov-p.log
+Precision Coverage: Mean = 6.31, Median = 0.36
+evaluate_conformator_cov-p.log
+Precision Coverage: Mean = 36.05, Median = 25.69
+evaluate_dmcg_cov-p.log
+Precision Coverage: Mean = 32.56, Median = 21.19
+evaluate_geodiff_cov-p.log
+Precision Coverage: Mean = 25.77, Median = 15.26
+evaluate_geomol_cov-p.log
+Precision Coverage: Mean = 41.52, Median = 32.58
+evaluate_omega_cov-p.log
+Precision Coverage: Mean = 47.41, Median = 47.44
+evaluate_rdkit_cov-p.log
+Precision Coverage: Mean = 36.47, Median = 21.92
+evaluate_torsional_diffusion_cov-p.log
+Precision Coverage: Mean = 53.63, Median = 54.17
